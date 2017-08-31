@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <departmentdata>
+    <element>
+      <_id>2</_id>
+      <dname>Software</dname>
+      <locations>
+        <element> 'Atlanta'</element>
+        <element> 'Sacramento'</element>
+      </locations>
+      <mgr_lname>James</mgr_lname>
+    </element>
+    <element>
+      <_id>3</_id>
+      <dname>HR</dname>
+      <locations>
+        <element> 'Arlington'</element>
+      </locations>
+      <mgr_lname>Linda</mgr_lname>
+    </element>
+    <element>
+      <_id>4</_id>
+      <dname>Research'</dname>
+      <locations>
+        <element> 'Bellaire'</element>
+        <element> 'Sugarland'</element>
+        <element> 'Houston'</element>
+      </locations>
+      <mgr_lname>Wong</mgr_lname>
+    </element>
+    <element>
+      <_id>5</_id>
+      <dname>Hardware</dname>
+      <locations>
+        <element> 'Milwaukee'</element>
+      </locations>
+      <mgr_lname>Freed</mgr_lname>
+    </element>
+    <element>
+      <_id>6</_id>
+      <dname>Sales</dname>
+      <locations>
+        <element> 'Chicago'</element>
+        <element> 'Dallas'</element>
+        <element> 'Philadephia'</element>
+        <element> 'Seattle'</element>
+        <element> 'Miami'</element>
+      </locations>
+      <mgr_lname>James</mgr_lname>
+    </element>
+    <element>
+      <_id>7</_id>
+      <dname>Headquarters</dname>
+      <locations>
+        <element> 'Houston'</element>
+      </locations>
+      <mgr_lname>Borg</mgr_lname>
+    </element>
+    <element>
+      <_id>8</_id>
+      <dname>QA</dname>
+      <locations>
+        <element> 'Austin'</element>
+      </locations>
+      <mgr_lname>Kirkish</mgr_lname>
+    </element>
+    <element>
+      <_id>9</_id>
+      <dname>Administration</dname>
+      <locations>
+        <element> 'Stafford'</element>
+      </locations>
+      <mgr_lname>Wallace</mgr_lname>
+    </element>
+  </departmentdata>
+</root>
